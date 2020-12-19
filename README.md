@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Last-Vega&count_private=true&show_icons=true&theme=monokai)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Last-Vega&count_private=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Last-Vega&hide=jupyter%20notebook&count_private=true&show_icons=true&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Last-Vega&count_private=true&show_icons=true&theme=monokai)
+[![](https://raw.githubusercontent.com/Last-Vega/Last-Vega/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
