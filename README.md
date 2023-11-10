@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Last-Vega&count_private=true&show_icons=true&theme=monokai)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Last-Vega&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Last-Vega&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Last-Vega&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Last-Vega&theme=github_dark)
 
 
 
