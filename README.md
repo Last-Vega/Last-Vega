@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats]([https://github-readme-stats.vercel.app/api](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/?username=&count_private=true&show_icons=true&theme=monokai)
+<!-- ![Anurag's github stats]([https://github-readme-stats.vercel.app/api](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/?username=&count_private=true&show_icons=true&theme=monokai)
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Last-Vega&count_private=true&show_icons=true&theme=monokai)
 [![](https://raw.githubusercontent.com/Last-Vega/Last-Vega/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://raw.githubusercontent.com/Last-Vega/Last-Vega/main/profile-summary-card-output/solarized/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Last-Vega/Last-Vega/main/profile-summary-card-output/solarized/2-most-commit-language.svg) -->
+
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Last-Vega&count_private=true&show_icons=true&theme=monokai)
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Last-Vega&theme=monokai
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Last-Vega&theme=monokai
+
 
 
 
