@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/Last-Vega/Last-Vega/main/profile-summary-card-output/solarized/2-most-commit-language.svg) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Last-Vega&count_private=true&show_icons=true&theme=monokai)
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Last-Vega&theme=monokai
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Last-Vega&theme=monokai
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Last-Vega&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Last-Vega&theme=monokai)
 
 
 
