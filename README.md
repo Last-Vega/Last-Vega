@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ![Anurag's GitHub stats](https://github-status-phi.vercel.app/api?username=Last-Vega&count_private=true&show_icons=true&theme=monokai)
 [![Top Langs](https://github-status-phi.vercel.app/api/top-langs/?username=Last-Vega&lcount_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-status-phi.vercel.app/api?username=Last-Vega&count_private=true&show_icons=true&theme=monokai" />
+  <img alt="github stats" height="150px" src="https://github-status-phi.vercel.app/api/top-langs/?username=Last-Vega&lcount_private=true" />
+</p>
+
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Last-Vega&theme=github_dark)
